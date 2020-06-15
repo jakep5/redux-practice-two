@@ -1,2 +1,6 @@
-export const ADD_ARTICLE = 'ADD_ARTICLE';
+export const CONSTANTS = {
+    ADD_ARTICLE: 'ADD_ARTICLE',
+    DATA_LOADED: 'DATA_LOADED'
+
+};
 
